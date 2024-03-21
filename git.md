@@ -16,12 +16,12 @@ Segurança e Integridade: Garante a integridade do código-fonte, com a capacida
 Desenvolvimento Distribuído: Permite que equipes de desenvolvimento distribuídas trabalhem de forma eficaz, compartilhando e colaborando em um código comum.
 Comandos Principais do Git:
 
-git init: Inicializa um repositório Git em um diretório existente.
-git add <arquivo>: Adiciona arquivos ao índice (staging area) para serem incluídos no próximo commit.
-git commit -m "<mensagem>": Cria um novo commit com as mudanças no índice e uma mensagem descritiva.
-git status: Mostra o estado atual do repositório, incluindo arquivos modificados e não rastreados.
-git branch: Lista as branches locais e permite criar, renomear e excluir branches.
-git checkout <branch>: Alterna para outra branch.
-git merge <branch>: Mescla os commits de uma branch com a branch atual.
-git pull: Puxa as mudanças do repositório remoto para a branch local.
-git push: Envia os commits locais para o repositório remoto.
+```git init```: Inicializa um repositório Git em um diretório existente.
+```git add:``` <arquivo>: Adiciona arquivos ao índice (staging area) para serem incluídos no próximo commit.
+```git commit -m ```"<mensagem>": Cria um novo commit com as mudanças no índice e uma mensagem descritiva.
+```git status:``` Mostra o estado atual do repositório, incluindo arquivos modificados e não rastreados.
+```git branch:``` Lista as branches locais e permite criar, renomear e excluir branches.
+```git checkout``` <branch>: Alterna para outra branch.
+```git merge <branch>:``` Mescla os commits de uma branch com a branch atual.
+```git pull:``` Puxa as mudanças do repositório remoto para a branch local.
+```git push:``` Envia os commits locais para o repositório remoto.
